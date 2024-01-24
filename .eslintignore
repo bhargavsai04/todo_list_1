@@ -1,2 +1,4 @@
-migrations/
-models/
+migrations
+models
+__tests__
+seeders
